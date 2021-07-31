@@ -11,3 +11,5 @@ Is the transfer provided by CurrencyCloud a SEPA one when choosing EURO currency
 Why can’t I receive payments in my currency? | Our 3 main payout providers are PayPal, Coinbase, and Currencycloud. You can only receive payments in the currencies these 3 options provide. If they don’t support your specified currency, then you unfortunately can’t receive payments in that currency. A work around for this is to receive your payment in US dollars and then have the funds converted to the currency you desire.
 Where is my payment? | Keep in mind that it takes about 7-10 days to receive payments after it’s been awarded, and there must be a valid tax form on file as well as a payout method selected.
 Why are there additional fees coming out of my payment? | There may be a need for an intermediary bank for payments to travel from the U.S. to another country. These banks may apply fees that they will deduct from the original amount and it will reflect once the payment reaches your account. HackerOne doesn't have control over these fees and can't know the amount the intermediary bank will deduct from the payment.
+
+hello
